@@ -1,3 +1,12 @@
+# UV ignored files
+uv.lock
+.python-version
+.venv/
+
+data/*.csv
+data/*.json
+data/*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

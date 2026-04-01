@@ -1,0 +1,20 @@
+{
+  "depalletizer": {
+    "timestamp": "timestamptz"
+  },
+  "capper": {
+    "timestamp": "timestamptz"
+  },
+  "conveyor": {
+    "timestamp": "timestamptz"
+  },
+  "cooler": {
+    "timestamp": "timestamptz"
+  },
+  "filler": {
+    "timestamp": "timestamptz"
+  },
+  "palletizer": {
+    "timestamp": "timestamptz"
+  }
+}
